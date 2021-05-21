@@ -1,0 +1,19 @@
+
+#chart {
+    display: block;
+    height: 800px;
+    width: 800px;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    /* width: 5rem;					 */
+    /* height: 4rem;					 */
+    padding: 0.5rem;				
+    font: 12px sans-serif;		
+    background: #ffffff;		
+    border-radius: 2px;			
+    pointer-events: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.507);
+}
